@@ -1,0 +1,20 @@
+[
+  {
+    "_id": "c7f70218-ed05-44a3-902e-372348fa2300",
+    "colId": "history",
+    "containerId": "",
+    "name": "http://localhost:3006/api/edificios/getEdificios",
+    "url": "http://localhost:3006/api/edificios/getEdificios",
+    "method": "GET",
+    "sortNum": 0,
+    "created": "2022-09-23T15:56:22.560Z",
+    "modified": "2022-09-23T15:57:26.339Z",
+    "headers": [],
+    "params": [],
+    "auth": {
+      "type": "bearer",
+      "bearer": "eyJhbGciOiJIUzI1NiJ9.QmFycmlsaXRvQmFycmlsaXRv.R-ee17nua-mOxuyF8XHX4Br4sBeAxNW19x_2SM2FVd4"
+    },
+    "tests": []
+  }
+]
